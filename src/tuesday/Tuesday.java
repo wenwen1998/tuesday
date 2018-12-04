@@ -17,6 +17,7 @@ public class Tuesday {
     public static void main(String[] args) {
         System.out.println("Hello Friend!");
         System.out.println("Good day!!");
+        System.out.println("Happy!!");
     }
     
 }
